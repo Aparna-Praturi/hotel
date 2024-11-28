@@ -7,6 +7,8 @@ import pandas as pd
 
 # New changes 
 
+print('First change to check git')
+
 
 # Load the models from the files
 loaded_lr_model = joblib.load('./model/lr_model.joblib')
